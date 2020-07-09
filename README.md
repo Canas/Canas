@@ -6,6 +6,7 @@ I'm Canas.
 - 👾 Videogames
 - 🖥 100+ browser tabs open
 - 🐍 Python 3.6+
+- 🌙 Avoid sunlight
 
 <!--
 **Canas/Canas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
