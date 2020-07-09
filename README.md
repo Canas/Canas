@@ -1,4 +1,11 @@
-### Hi there 👋
+# Oh, hai
+I'm Canas.
+
+## Requirements
+- 🍗 Chicken nuggets
+- 👾 Videogames
+- 🖥 100+ browser tabs open
+- 🐍 Python 3.6+
 
 <!--
 **Canas/Canas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
